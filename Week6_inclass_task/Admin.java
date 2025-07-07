@@ -1,3 +1,8 @@
+package Week6_inclass_task;
+
+import Week6_inclass_task.DataSource;
+
+
 public class Admin extends Account {
     private String AuthPassword;
 

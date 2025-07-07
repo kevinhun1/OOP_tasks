@@ -1,4 +1,13 @@
 // Entry point of the application
+package Week6_inclass_task;
+
+import Week6_inclass_task.DataSource;
+import Week6_inclass_task.Admin;
+import Week6_inclass_task.User;
+import Week6_inclass_task.Update;
+import Week6_inclass_task.View;
+
+
 public class MainApplication {
     public static void main(String[] args) {
         // Create an admin and a user
